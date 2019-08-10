@@ -1,7 +1,7 @@
 // This is sample how to serve website and save form data to file with NodeJS
 //Usage:
 // 1. Install dependencies: npm i express body-parser
-// 2. Run: server node server.js
+// 2. Run server: node server.js
 
 const express = require('express');
 const bodyParser = require('body-parser');
